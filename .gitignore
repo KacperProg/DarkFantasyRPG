@@ -1,0 +1,27 @@
+# Build output
+/build/
+/out/
+/bin/
+/lib/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+_deps/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.ilk
+*.pdb
+
+# Misc
+.DS_Store
+Thumbs.db
